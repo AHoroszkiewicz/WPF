@@ -1,1 +1,2 @@
-# WPF
+Studia<br>
+Zajęcia z WPF
