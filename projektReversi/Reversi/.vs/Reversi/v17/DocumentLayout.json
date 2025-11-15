@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jakub\\source\\repos\\Reversi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|c:\\users\\jakub\\source\\repos\\reversi\\reversi\\reversi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|solutionrelative:reversi\\reversi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|c:\\users\\jakub\\source\\repos\\reversi\\reversi\\reversisilnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|solutionrelative:reversi\\reversisilnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|c:\\users\\jakub\\source\\repos\\reversi\\reversi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|solutionrelative:reversi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|c:\\users\\jakub\\source\\repos\\reversi\\reversi\\reversisilnikai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|solutionrelative:reversi\\reversisilnikai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|c:\\users\\jakub\\source\\repos\\reversi\\reversi\\mieszaniekolorow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|solutionrelative:reversi\\mieszaniekolorow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|c:\\users\\jakub\\source\\repos\\reversi\\reversi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|solutionrelative:reversi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|c:\\users\\jakub\\source\\repos\\reversi\\reversi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|solutionrelative:reversi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|c:\\users\\jakub\\source\\repos\\reversi\\reversi\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|solutionrelative:reversi\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reversi.csproj",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\Reversi\\Reversi\\Reversi.csproj",
+              "RelativeDocumentMoniker": "Reversi\\Reversi.csproj",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\Reversi\\Reversi\\Reversi.csproj",
+              "RelativeToolTip": "Reversi\\Reversi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T03:25:28.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MieszanieKolorow.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\Reversi\\Reversi\\MieszanieKolorow.cs",
+              "RelativeDocumentMoniker": "Reversi\\MieszanieKolorow.cs",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\Reversi\\Reversi\\MieszanieKolorow.cs",
+              "RelativeToolTip": "Reversi\\MieszanieKolorow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T00:51:35.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\Reversi\\Reversi\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Reversi\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\Reversi\\Reversi\\AssemblyInfo.cs",
+              "RelativeToolTip": "Reversi\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T00:39:07.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\Reversi\\Reversi\\App.xaml",
+              "RelativeDocumentMoniker": "Reversi\\App.xaml",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\Reversi\\Reversi\\App.xaml",
+              "RelativeToolTip": "Reversi\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-05T00:24:42.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReversiSilnikAI.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\Reversi\\Reversi\\ReversiSilnikAI.cs",
+              "RelativeDocumentMoniker": "Reversi\\ReversiSilnikAI.cs",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\Reversi\\Reversi\\ReversiSilnikAI.cs",
+              "RelativeToolTip": "Reversi\\ReversiSilnikAI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T00:22:32.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReversiSilnik.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\Reversi\\Reversi\\ReversiSilnik.cs",
+              "RelativeDocumentMoniker": "Reversi\\ReversiSilnik.cs",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\Reversi\\Reversi\\ReversiSilnik.cs",
+              "RelativeToolTip": "Reversi\\ReversiSilnik.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T00:22:16.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\Reversi\\Reversi\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Reversi\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\Reversi\\Reversi\\MainWindow.xaml",
+              "RelativeToolTip": "Reversi\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-05T00:20:05.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\Reversi\\Reversi\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Reversi\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\Reversi\\Reversi\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Reversi\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T00:20:03.216Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
