@@ -241,7 +241,7 @@ namespace Reversi
         private void MenuItem_OProgramie_Click(object sender, RoutedEventArgs e)
         {
             
-            MessageBox.Show("Jakub Miedziński 2025");
+            MessageBox.Show("Adam Horoszkiewicz 2025");
         }
         #endregion
 

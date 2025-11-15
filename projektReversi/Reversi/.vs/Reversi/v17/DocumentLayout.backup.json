@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "E:\\Studia\\WPF\\projektReversi\\Reversi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|e:\\studia\\wpf\\projektreversi\\reversi\\reversi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|solutionrelative:reversi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|e:\\studia\\wpf\\projektreversi\\reversi\\reversi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|solutionrelative:reversi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|e:\\studia\\wpf\\projektreversi\\reversi\\reversi\\mieszaniekolorow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|solutionrelative:reversi\\mieszaniekolorow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,8 +15,16 @@
       "RelativeMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|solutionrelative:reversi\\reversisilnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|e:\\studia\\wpf\\projektreversi\\reversi\\reversi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|solutionrelative:reversi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|e:\\studia\\wpf\\projektreversi\\reversi\\reversi\\reversisilnikai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|solutionrelative:reversi\\reversisilnikai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|e:\\studia\\wpf\\projektreversi\\reversi\\reversi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|solutionrelative:reversi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0EBD1A2C-82F9-47D0-A7C8-1638F2937ACF}|Reversi\\Reversi.csproj|e:\\studia\\wpf\\projektreversi\\reversi\\reversi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Reversi.csproj",
               "DocumentMoniker": "E:\\Studia\\WPF\\projektReversi\\Reversi\\Reversi\\Reversi.csproj",
               "RelativeDocumentMoniker": "Reversi\\Reversi.csproj",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MieszanieKolorow.cs",
               "DocumentMoniker": "E:\\Studia\\WPF\\projektReversi\\Reversi\\Reversi\\MieszanieKolorow.cs",
               "RelativeDocumentMoniker": "Reversi\\MieszanieKolorow.cs",
@@ -91,12 +91,11 @@
               "ToolTip": "E:\\Studia\\WPF\\projektReversi\\Reversi\\Reversi\\App.xaml",
               "RelativeToolTip": "Reversi\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-05T00:24:42.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T00:24:42.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ReversiSilnikAI.cs",
               "DocumentMoniker": "E:\\Studia\\WPF\\projektReversi\\Reversi\\Reversi\\ReversiSilnikAI.cs",
               "RelativeDocumentMoniker": "Reversi\\ReversiSilnikAI.cs",
@@ -108,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ReversiSilnik.cs",
               "DocumentMoniker": "E:\\Studia\\WPF\\projektReversi\\Reversi\\Reversi\\ReversiSilnik.cs",
               "RelativeDocumentMoniker": "Reversi\\ReversiSilnik.cs",
@@ -120,28 +119,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "E:\\Studia\\WPF\\projektReversi\\Reversi\\Reversi\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Reversi\\MainWindow.xaml",
               "ToolTip": "E:\\Studia\\WPF\\projektReversi\\Reversi\\Reversi\\MainWindow.xaml",
               "RelativeToolTip": "Reversi\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-05T00:20:05.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T00:20:05.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "E:\\Studia\\WPF\\projektReversi\\Reversi\\Reversi\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Reversi\\MainWindow.xaml.cs",
               "ToolTip": "E:\\Studia\\WPF\\projektReversi\\Reversi\\Reversi\\MainWindow.xaml.cs",
               "RelativeToolTip": "Reversi\\MainWindow.xaml.cs",
-              "ViewState": "AgIAANEAAAAAAAAAAAAAAPMAAAAvAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T00:20:03.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T00:20:03.216Z"
             }
           ]
         }
