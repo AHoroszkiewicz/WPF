@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Studia\\WPF\\projektReversi\\Reversi\\Reversi\\Reversi.csproj": {}
+    "E:\\Studia\\WPF\\projektReversi\\reversi\\Reversi\\Reversi.csproj": {}
   },
   "projects": {
-    "E:\\Studia\\WPF\\projektReversi\\Reversi\\Reversi\\Reversi.csproj": {
+    "E:\\Studia\\WPF\\projektReversi\\reversi\\Reversi\\Reversi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Studia\\WPF\\projektReversi\\Reversi\\Reversi\\Reversi.csproj",
+        "projectUniqueName": "E:\\Studia\\WPF\\projektReversi\\reversi\\Reversi\\Reversi.csproj",
         "projectName": "Reversi",
-        "projectPath": "E:\\Studia\\WPF\\projektReversi\\Reversi\\Reversi\\Reversi.csproj",
+        "projectPath": "E:\\Studia\\WPF\\projektReversi\\reversi\\Reversi\\Reversi.csproj",
         "packagesPath": "C:\\Users\\login\\.nuget\\packages\\",
-        "outputPath": "E:\\Studia\\WPF\\projektReversi\\Reversi\\Reversi\\obj\\",
+        "outputPath": "E:\\Studia\\WPF\\projektReversi\\reversi\\Reversi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
